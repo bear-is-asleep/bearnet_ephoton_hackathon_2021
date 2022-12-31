@@ -3,5 +3,4 @@
 ## ML4SCI Machine Learning Hackathon - Fall 2021
 
 
-Co-authored-by: Bear Carlson <bcarlson@ufl.edu>, 
-Co-authored-by: Evan Koenig <ekoenig@ufl.edu>
+Co-authored-by: Bear Carlson <bcarlson@ufl.edu> and Evan Koenig <ekoenig@ufl.edu>
